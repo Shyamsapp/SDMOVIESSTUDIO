@@ -1,3 +1,3 @@
 # SDMOVIESSTUDIO
 sdmoviesstudio
-This apapp is created for Entertainment purpose.
+This app is created for Entertainment purpose only.
